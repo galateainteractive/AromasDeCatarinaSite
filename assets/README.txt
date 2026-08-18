@@ -1,0 +1,1 @@
+Binary image assets are stored in this folder for the public preview.
